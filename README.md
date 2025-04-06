@@ -93,8 +93,16 @@ pip3 install -r requirements.txt
    ```sh
    python3 main.py
    ```
+   ![plot](./images/application_homepage.png)
+
 2. Select a folder containing PDFs.
+
+![plot](./images/application_browse_files.png)
+
+![plot](./images/application_browse_files2.png)
+
 3. Click **"Generate Guest Info File"** to create a Word document.
+
 4. Click **"Show/Hide Preview"** to view extracted tables.
 
 ## APP creation
